@@ -1,0 +1,6 @@
+D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\bin\Debug\netcoreapp1.1\BlogHumanizer.deps.json
+D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\bin\Debug\netcoreapp1.1\BlogHumanizer.runtimeconfig.json
+D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\bin\Debug\netcoreapp1.1\BlogHumanizer.runtimeconfig.dev.json
+D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\bin\Debug\netcoreapp1.1\BlogHumanizer.dll
+D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\obj\Debug\netcoreapp1.1\BlogHumanizer.csprojResolveAssemblyReference.cache
+D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\obj\Debug\netcoreapp1.1\BlogHumanizer.AssemblyInfo.cs
