@@ -4,3 +4,6 @@ D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\bin\Debug\netcoreap
 D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\bin\Debug\netcoreapp1.1\BlogHumanizer.dll
 D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\obj\Debug\netcoreapp1.1\BlogHumanizer.csprojResolveAssemblyReference.cache
 D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\obj\Debug\netcoreapp1.1\BlogHumanizer.AssemblyInfo.cs
+D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\bin\Debug\netcoreapp1.1\BlogHumanizer.pdb
+D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\obj\Debug\netcoreapp1.1\BlogHumanizer.dll
+D:\Code\Blog\blog\Blog-Humanizer\BlogHumanizer\BlogHumanizer\obj\Debug\netcoreapp1.1\BlogHumanizer.pdb
